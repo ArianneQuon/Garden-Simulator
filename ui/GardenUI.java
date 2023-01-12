@@ -479,7 +479,7 @@ public class GardenUI extends JFrame {
     private void printLog() {
         for (Event event : EventLog.getInstance()) {
             System.out.println(event.getDate() + ": " + event.getDescription());
-        }f
+        }
     }
 
     // EFFECTS: saves garden to file
