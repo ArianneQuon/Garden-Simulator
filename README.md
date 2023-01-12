@@ -23,7 +23,7 @@ the list of plants. Finally, choosing to "leave" the garden will
 end the program until run again.
 </p>
 
-###*Sample Images*
+### *Sample Images*
 
 <p> For this project, I decided to create all the art used on my own in order to increase the amount of fun and creative liberty
 I could take with the project. </p>
